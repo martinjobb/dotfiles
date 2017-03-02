@@ -1,0 +1,133 @@
+ServerAliveInterval 60
+Host *.cloudnet.se
+    User root
+Host jenkins.frojd.se
+    HostName jenkins.frojd.se
+    User jenkins
+Host factsswedenru.frojd.se
+    HostName 31.192.224.178
+    User root
+Host factsswedense.frojd.se
+    HostName 31.192.224.178
+    User root
+Host sidev.se
+    HostName 31.192.227.145
+    User svenskainstitutet
+Host si.se
+    HostName 31.192.227.145
+    User svenskainstitutet
+Host dev.sweden.ru
+    HostName c0037.cloudnet.se
+    User root
+Host stage-blogg.land.se
+    HostName stage-wp-lrfmedia.oderland.com
+    User wp
+Host stage.land.se
+    HostName stage-wp-lrfmedia.oderland.com
+    User wp
+Host blogg.land.se
+    HostName prod-wp-lrfmedia.oderland.com
+    User wp
+Host land.se
+    HostName prod-wp-lrfmedia.oderland.com
+    User wp
+Host workdev.sweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host work.sweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host studydev.sweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host blogsdev.studyinsweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host blogs.studyinsweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host work.sweden.se
+    HostName 46.21.108.143
+    User studyinsweden
+Host studydev.sweden.cn
+    HostName 115.29.229.194
+    Port 40022
+    User swedencn
+Host study.sweden.cn
+    HostName 112.124.67.41
+    Port 40022
+    User swedencn
+Host news.sweden.cn
+    HostName 112.124.67.41
+    Port 40022
+    User swedencn
+Host visitdev.sweden.cn
+    HostName 115.29.229.194
+    Port 40022
+    User swedencn
+Host visit.sweden.cn
+    HostName 112.124.67.41
+    Port 40022
+    User swedencn
+Host facts.sweden.cn
+    HostName 112.124.67.41
+    Port 40022
+    User swedencn
+Host factsdev.sweden.cn
+    HostName 115.29.229.194
+    Port 40022
+    User swedencn
+Host sweden.se
+    HostName 31.192.231.167
+    Port 22
+    User facts
+Host factsswedencn.frojd.se
+    HostName 31.192.224.178
+    User root
+Host demo.frojd.se
+    HostName 79.99.0.200
+    User root
+Host demo.sweden.cn
+    HostName 79.99.0.200
+    User root
+Host studyinsweden.se
+    HostName studyinsweden.se
+    User studyinsweden
+Host learningswedish.se
+    HostName vps-58908.cloudnet.se
+    User root
+Host dev.learningswedish.se
+    HostName vps-54317.cloudnet.se
+    User root
+Host dev.olearys.se
+    HostName c6677.cloudnet.se
+    User root
+    ForwardAgent yes
+Host olearys.se
+    HostName c8392.cloudnet.se
+    User root
+    ForwardAgent yes
+Host stage.arkitekten.se
+    HostName c2702.cloudnet.se
+    User root
+Host arkitekten.se
+    HostName c5906.cloudnet.se
+    User root
+Host storystage.visitsweden.com
+    HostName c1583.cloudnet.se
+    User root
+Host naturskyddsforeningen.se
+    HostName c7712.cloudnet.se
+    User root
+Host stage.visitsweden.com
+    HostName c8670.cloudnet.se
+    User root
+Host beta.visitsweden.com
+    HostName c4865.cloudnet.se
+    User root
+Host sharingsweden.se
+    HostName c1243.cloudnet.se
+    User root
+Host stage.sharingsweden.se
+    HostName c5375.cloudnet.se
+    User root
